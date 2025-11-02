@@ -1,0 +1,50 @@
+[
+  {
+    "id": "sapporo_0001",
+    "name": {
+      "ja": "喫茶 月光",
+      "en": "Cafe Gekkou"
+    },
+    "city": "Sapporo",
+    "country": "Japan",
+    "tags": [
+      "cafe",
+      "quiet",
+      "date",
+      "night"
+    ],
+    "lat": 43.0618,
+    "lng": 141.3545,
+    "comment": {
+      "ja": "照明が柔らかく静か。深夜でも落ち着ける。",
+      "en": "Soft lighting and very quiet. Comfortable even late at night."
+    },
+    "photo_url": "",
+    "gm_url": "https://maps.google.com/?q=43.0618,141.3545",
+    "is_premium": false
+  },
+  {
+    "id": "tokyo_0001",
+    "name": {
+      "ja": "小路の割烹",
+      "en": "Kappo in the Alley"
+    },
+    "city": "Tokyo",
+    "country": "Japan",
+    "tags": [
+      "dinner",
+      "seasonal",
+      "authentic",
+      "date"
+    ],
+    "lat": 35.6804,
+    "lng": 139.769,
+    "comment": {
+      "ja": "静かなカウンター、器のセンスが良い。",
+      "en": "Quiet counter seating; beautiful tableware and plating sense."
+    },
+    "photo_url": "",
+    "gm_url": "https://maps.google.com/?q=35.6804,139.7690",
+    "is_premium": true
+  }
+]

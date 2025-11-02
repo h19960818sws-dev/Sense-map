@@ -1,0 +1,24 @@
+[
+  {
+    "map_id": "m_sapporo_night",
+    "title": {
+      "ja": "札幌・夜に行きたいごはん",
+      "en": "Sapporo Night Eats"
+    },
+    "place_ids": [
+      "sapporo_0001"
+    ],
+    "cover_photo": ""
+  },
+  {
+    "map_id": "m_tokyo_date",
+    "title": {
+      "ja": "東京・大人のデート飯",
+      "en": "Tokyo Date Night"
+    },
+    "place_ids": [
+      "tokyo_0001"
+    ],
+    "cover_photo": ""
+  }
+]

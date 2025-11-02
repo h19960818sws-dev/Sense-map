@@ -1,0 +1,42 @@
+{
+  "app_title": {
+    "ja": "センスマップ",
+    "en": "SenseMap"
+  },
+  "subtitle": {
+    "ja": "旅と日常の“センスのある場所”を共有",
+    "en": "Share tasteful places for travel & daily life"
+  },
+  "search_placeholder": {
+    "ja": "都市・タグ・店名で検索",
+    "en": "Search by city, tag, or name"
+  },
+  "filters": {
+    "ja": "フィルタ",
+    "en": "Filters"
+  },
+  "premium_only": {
+    "ja": "有料限定",
+    "en": "Premium Only"
+  },
+  "open_in_maps": {
+    "ja": "Googleマップで開く",
+    "en": "Open in Google Maps"
+  },
+  "language": {
+    "ja": "言語",
+    "en": "Language"
+  },
+  "all": {
+    "ja": "すべて",
+    "en": "All"
+  },
+  "collections": {
+    "ja": "マップ特集",
+    "en": "Collections"
+  },
+  "places": {
+    "ja": "スポット",
+    "en": "Places"
+  }
+}
